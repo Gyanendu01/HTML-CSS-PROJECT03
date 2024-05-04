@@ -1,6 +1,6 @@
 # Nike UI Clone
 ## Live Preview
-You can view the live preview of this website [here](https://gyanendu01.github.io/HTML-CSS-PROJECT01/).
+You can view the live preview of this website [here](https://gyanendu01.github.io/HTML-CSS-PROJECT03/).
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Any improvements, bug fixes, or new features are welcome!
